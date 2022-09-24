@@ -50,7 +50,7 @@
                             <input type="password" class="form-control" id="password" name="password">
                         </div>
                         <div class="d-grid gap-2">
-                            <button type="submit" class="btn btn-primary" name="register">Register Apk</button>
+                            <button type="submit" class="btn btn-primary" name="register">Register</button>
                         </div>
                     </form>
                     <p class="mt-2 mb-0">Have an account? <a href="./loginPage.php" class="text-primary">Login here!</a>
