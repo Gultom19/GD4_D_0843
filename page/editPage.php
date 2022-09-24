@@ -16,7 +16,7 @@
     $user = mysqli_fetch_assoc($query);
             echo'
             <div class="card-body"> 
-                <form action="../process/editProfileProcess.php" method="post">
+                <form action="../process/editProcess.php" method="post">
                     <div class="mb-3"> 
                         <label for="exampleInputEmail1" class="form-label">Name</label> 
                         <input class="form-control" id="name" name="name" aria-describedby="emailHelp" value="'.$user['name'].'"> 

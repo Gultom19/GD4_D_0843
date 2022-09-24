@@ -48,7 +48,7 @@
         </table>
 
             <div class="d-grid gap-2"> 
-                <a class="btn btn-primary" href="../page/editProfilePage.php" role="button">Edit Profile</a>
+                <a class="btn btn-primary" href="../page/editPage.php" role="button">Edit Profile</a>
             </div>';
     ?>
     </div> 
